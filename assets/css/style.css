@@ -1309,3 +1309,8 @@ body.lang-fa .resume .resume-item h5 {
   direction: ltr;
   text-align: left;
 }
+.en {
+  font-family: "Open Sans", sans-serif;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
