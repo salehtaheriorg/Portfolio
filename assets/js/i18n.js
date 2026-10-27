@@ -1,6 +1,6 @@
 /* Persian (fa) translations. English text lives directly in index.html. */
 window.I18N_FA = {
-  "meta.title": " <span class='en'>SALEH TAHERI</span> | برنامه‌نویس وب و باگ‌هانتر",
+  "meta.title": " <span class='en'>Saleh Taheri</span> | برنامه‌نویس وب و باگ‌هانتر",
 
   "nav.home": "خانه",
   "nav.about": "درباره من",
@@ -9,7 +9,7 @@ window.I18N_FA = {
   "nav.services": "خدمات",
   "nav.contact": "تماس",
 
-  "hero.name": " <span class='en'>SALEH TAHERI</span>",
+  "hero.name": " <span class='en'>Saleh Taheri</span>",
   "hero.iam": "من یه",
   "hero.typed": "برنامه‌نویسم,دانشجوام,باگ‌هانترم,دنبال امنیتم,مهندس کامپیوترم",
 
