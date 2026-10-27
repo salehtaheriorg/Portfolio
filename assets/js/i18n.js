@@ -1,5 +1,5 @@
 window.I18N_FA = {
-  "meta.title": " <span class='en'>Saleh Taheri</span> | برنامه نویس وب و باگ هانتر",
+  "meta.title": "Saleh Taheri",
 
   "nav.home": "خانه",
   "nav.about": "درباره من",
